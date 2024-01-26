@@ -255,33 +255,6 @@
       ]
     },
     {
-      "displayName": "COVID Testing Information",
-      "entryType": "SECTION",
-      "fields": [
-        {
-          "id": "covidTestingAppointmentRequired"
-        },
-        {
-          "id": "covidTestingReferralRequired"
-        },
-        {
-          "id": "covidTestingDriveThroughSite"
-        },
-        {
-          "id": "covidTestingPatientRestrictions"
-        },
-        {
-          "id": "covidTestingSiteInstructions"
-        },
-        {
-          "id": "covidTestingIsFree"
-        },
-        {
-          "id": "covidTestAppointmentUrl"
-        }
-      ]
-    },
-    {
       "displayName": "COVID Vaccine Information",
       "entryType": "SECTION",
       "fields": [
