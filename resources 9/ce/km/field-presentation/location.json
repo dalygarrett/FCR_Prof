@@ -482,10 +482,6 @@
           "id": "slug"
         }
       ]
-    },
-    {
-      "displayName": "Settings",
-      "entryType": "DIVIDER"
     }
   ]
 }
