@@ -499,37 +499,6 @@
     },
     {
       "defaultCollapsed": true,
-      "displayName": "Search Tracker",
-      "entryType": "SECTION",
-      "fields": [
-        {
-          "id": "rankTrackingEnabled"
-        },
-        {
-          "id": "rankTrackingFrequency"
-        },
-        {
-          "id": "rankTrackingKeywords"
-        },
-        {
-          "id": "customKeywords"
-        },
-        {
-          "id": "rankTrackingQueryTemplates"
-        },
-        {
-          "id": "alternateNames"
-        },
-        {
-          "id": "alternateWebsites"
-        },
-        {
-          "id": "rankTrackingSites"
-        }
-      ]
-    },
-    {
-      "defaultCollapsed": true,
       "displayName": "Review Generation",
       "entryType": "SECTION",
       "fields": [
