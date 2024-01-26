@@ -486,32 +486,6 @@
     {
       "displayName": "Settings",
       "entryType": "DIVIDER"
-    },
-    {
-      "defaultCollapsed": true,
-      "displayName": "Competitors",
-      "entryType": "SECTION",
-      "fields": [
-        {
-          "id": "rankTrackingCompetitors"
-        }
-      ]
-    },
-    {
-      "defaultCollapsed": true,
-      "displayName": "Review Generation",
-      "entryType": "SECTION",
-      "fields": [
-        {
-          "id": "firstPartyReviewPage"
-        },
-        {
-          "id": "reviewGenerationUrl"
-        },
-        {
-          "id": "defaultReviewInviteTemplate"
-        }
-      ]
     }
   ]
 }
