@@ -255,33 +255,6 @@
       ]
     },
     {
-      "displayName": "COVID Vaccine Information",
-      "entryType": "SECTION",
-      "fields": [
-        {
-          "id": "covidVaccinesOffered"
-        },
-        {
-          "id": "covidVaccineAppointmentRequired"
-        },
-        {
-          "id": "covidVaccineReferralRequired"
-        },
-        {
-          "id": "covidVaccineDriveThroughSite"
-        },
-        {
-          "id": "covidVaccinePatientRestrictions"
-        },
-        {
-          "id": "covidVaccineSiteInstructions"
-        },
-        {
-          "id": "covidVaccineInformationUrl"
-        }
-      ]
-    },
-    {
       "displayName": "Additional Hours",
       "entryType": "DIVIDER"
     },
